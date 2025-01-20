@@ -38,6 +38,11 @@
             "programmer1": "`Job:` **Freelancer**",
             "programmer2": "`Workplace:` **Home**",
             "programmer3": "`Project completed:`"
-            }}
+            },
+      "investortrader": {
+        "investortrader1": "`Job:` **Investor/Trader Retail**",
+        "investortrader2": "`Workplace:` **Home**",
+        "investortrader3": "`Funds & Growth:`"
+      }}
       }
 }
