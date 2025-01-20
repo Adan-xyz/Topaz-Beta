@@ -43,6 +43,11 @@
         "investortrader1": "`Job:` **Investor/Trader Retail**",
         "investortrader2": "`Workplace:` **Home**",
         "investortrader3": "`Funds & Growth:`"
-      }}
+      },
+      "streamergame": {
+        "streamergame1": "`Job:` **Streamer Game**",
+        "streamergame2": "`Workplace:` **Home**",
+        "streamergame3": "`Subscribers:`"
+      }
       }
 }
