@@ -1,5 +1,5 @@
 {
-  "game": [{
+  "game": {
     "rank": {
       "beginner": "<:shiningstar:1330812325371842560>",
       "beginner1": "<:beginner1:1329617186729492510>",
@@ -26,8 +26,8 @@
         "master": "Master",
         "masterclass": "Masterclass"
         }
-    }\],
-    "work": [{
+    },
+    "work": {
       "portfolio": {
         "default": {
           "default1": "`Job: No job`",
@@ -39,5 +39,5 @@
             "programmer2": "`Workplace:` **Home**",
             "programmer3": "`Project completed: $getVar[project;$authorID]`"
             }}
-      }\]
+      }
 }
