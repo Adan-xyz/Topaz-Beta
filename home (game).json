@@ -37,7 +37,7 @@
           "programmer": {
             "programmer1": "`Job:` **Freelancer**",
             "programmer2": "`Workplace:` **Home**",
-            "programmer3": "`Project completed: $getVar[project;$authorID]`"
+            "programmer3": "`Project completed:`"
             }}
       }
 }
