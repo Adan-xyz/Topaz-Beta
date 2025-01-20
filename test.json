@@ -1,4 +1,7 @@
 {
-  "key1": "Value1",
-  "key2": "Value2"
+  "user": {
+    "name": "John Doe",
+    "age": 25,
+    "city": "Jakarta"
+  }
 }
