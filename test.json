@@ -1,16 +1,7 @@
-$nomention
-$jsonParse[{
-  "index": [{
-    "data1": {
-      "objek1": "objek 1 data",
-      "objek2": "objek 2 data"
-      }
-      "data2": {
-          "objek5": "objek 5 data",
-          "objek6": "objek 6 data"
-      }
-    },{
-    "objek3": "objek 3 data",
-    "objek4": "objek 4 data"
-    }\] 
-}]
+{
+  "user": {
+    "name": "John Doe",
+    "age": 25,
+    "city": "Jakarta"
+  }
+}
