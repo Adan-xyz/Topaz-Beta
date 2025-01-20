@@ -1,7 +1,43 @@
 {
-  "user": {
-    "name": "John Doe",
-    "age": 25,
-    "city": "Jakarta"
-  }
+  "game": [{
+    "rank": {
+      "beginner": "<:shiningstar:1330812325371842560>",
+      "beginner1": "<:beginner1:1329617186729492510>",
+      "beginner2": "<:beginner2:1329617272821776497>",
+      "beginner3": "<:beginner3:1329617360382066742>",
+      "intermediate1": "<:intermediate1:1329617403646054431>",
+      "intermediate2": "<:intermediate2:1329617436659552316>",
+      "intermediate3": "<:intermediate3:1329617466258620498>",
+      "expert1": "<:expert1:1329617519887253504>",
+      "expert2": "<:expert2:1329617554397728868>",
+      "master": "<:master:1329617600304644179>",
+      "masterclass": "<:masterclass:1329617629937143829>"
+      },
+      "rankname": {
+        "beginner": "Beginner",
+        "beginner1": "Beginner 1",
+        "beginner2": "Beginner 2",
+        "beginner3": "Beginner 3",
+        "intermediate1": "Intermediate 1",
+        "intermediate2": "Intermediate 2",
+        "intermediate3": "Intermediate 3",
+        "expert1": "Expert 1",
+        "expert2": "Expert 2",
+        "master": "Master",
+        "masterclass": "Masterclass"
+        }
+    }\],
+    "work": [{
+      "portfolio": {
+        "default": {
+          "default1": "`Job: No job`",
+          "default2": "`Workplace: No workplace`",
+          "default3": "`Project completed: 0`"
+          },
+          "programmer": {
+            "programmer1": "`Job:` **Freelancer**",
+            "programmer2": "`Workplace:` **Home**",
+            "programmer3": "`Project completed: $getVar[project;$authorID]`"
+            }}
+      }\]
 }
