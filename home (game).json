@@ -33,30 +33,35 @@
           "default1": "`Job: No job`",
           "default2": "`Workplace: No workplace`",
           "default3": "`Project completed:`",
-          "default4": "No profession"
+          "default4": "No profession",
+          "default5": "Projects available:"
           },
           "programmer": {
             "programmer1": "`Job:` **Freelancer**",
             "programmer2": "`Workplace:` **Home**",
             "programmer3": "`Project completed:`",
-            "programmer4": "**Programmer**"
+            "programmer4": "**Programmer**",
+            "programmer5": "Projects available:"
             },
       "investortrader": {
         "investortrader1": "`Job:` **Investor/Trader Retail**",
         "investortrader2": "`Workplace:` **Home**",
         "investortrader3": "`Funds & Growth:`",
-        "investortrader4": "**Investor/Trader**"
+        "investortrader4": "**Investor/Trader**",
+        "investortrader5": "Funds available"
       },
         "designer": {
           "designer1": "`Job:` **Freelancer**",
           "designer2": "`Workplace:` **Home**",
           "designer3": "`Project:`",
-          "designer4": "**Designer**"
+          "designer4": "**Designer**",
+          "designer5": "Projects available:"
         },
       "streamergame": {
         "streamergame1": "`Job:` **Streamer Game**",
         "streamergame2": "`Workplace:` **Home**",
         "streamergame3": "`Subscribers:`",
-        "streamergame4": "**Streamer Game**"
+        "streamergame4": "**Streamer Game**",
+        "streamergame5": "Content available:"
       }}
 }}
