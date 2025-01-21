@@ -33,7 +33,7 @@
           "default1": "`Job: No job`",
           "default2": "`Workplace: No workplace`",
           "default3": "`Project completed:`",
-          "default4": "No proffesion"
+          "default4": "`No proffesion`"
           },
           "programmer": {
             "programmer1": "`Job:` **Freelancer**",
