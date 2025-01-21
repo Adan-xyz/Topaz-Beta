@@ -32,7 +32,7 @@
         "default": {
           "default1": "`Job: No job`",
           "default2": "`Workplace: No workplace`",
-          "default3": "`Project completed: 0`",
+          "default3": "`Project completed:`",
           "default4": "</>"
           },
           "programmer": {
