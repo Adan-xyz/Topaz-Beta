@@ -19,6 +19,7 @@
       "skill3": "Expert"
     },
     "profession": {
+      "default": "No Profession",
       "programmer": "Programmer",
       "trader": "Trader",
       "designer": "Designer",
