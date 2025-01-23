@@ -24,5 +24,14 @@
       "designer": "**Designer**",
       "streamer": "**Streamer**"
     }
+  },
+  "game": {
+    "tasks": {
+      "default": "Tasks available:",
+      "programmer": "Projects available:",
+      "trader": "Funds & Setups available:",
+      "designer": "Projects available:",
+      "streamer": "Contents available:"
+    }
   }
 }
