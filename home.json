@@ -12,6 +12,11 @@
       "brilliancebadge": "<a:brilliance:1329281946592874526>",
       "braverybadge": "<a:bravery:1329281970030645328>",
       "balancebadge": "<a:balance:1329281987646718092>"
+    },
+    "skill": {
+      "skill1": "Beginner",
+      "skill2": "Intermediate",
+      "skill3": "Expert"
     }
   }
 }
