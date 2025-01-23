@@ -17,6 +17,12 @@
       "skill1": "Beginner",
       "skill2": "Intermediate",
       "skill3": "Expert"
+    },
+    "profession": {
+      "programmer": "Programmer",
+      "trader": "Trader",
+      "designer": "Designer",
+      "streamer": "Streamer"
     }
   }
 }
