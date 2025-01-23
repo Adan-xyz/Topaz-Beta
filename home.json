@@ -27,11 +27,22 @@
   },
   "game": {
     "profession": {
-      "programmer": "Project:",
-      "programmer1": "Completed:",
-      "trader": "Funds & Setups available:",
-      "designer": "Projects available:",
-      "streamer": "Contents available:"
+      "programmer": {
+        "programmer1": "Projects:",
+        "programmer2": "Completed:"
+      },
+      "trader": {
+        "teader1": "Funds:",
+        "trader2": "Setup:"
+      },
+      "designer": {
+        "designer1": "Projects:",
+        "designer2": "Completed:"
+      },
+      "streamer": {
+        "streamer1": "Content:",
+        "streamer2": "Subscriber:"
+      }
     }
   }
 }
