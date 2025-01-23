@@ -14,16 +14,15 @@
       "balancebadge": "<a:balance:1329281987646718092>"
     },
     "skill": {
-      "skill1": "Beginner",
-      "skill2": "Intermediate",
-      "skill3": "Expert"
+      "skill1": "**Beginner**",
+      "skill2": "**Intermediate**",
+      "skill3": "**Expert**"
     },
     "profession": {
-      "default": "No Profession",
-      "programmer": "Programmer",
-      "trader": "Trader",
-      "designer": "Designer",
-      "streamer": "Streamer"
+      "programmer": "**Programmer**",
+      "trader": "**Trader**",
+      "designer": "**Designer**",
+      "streamer": "**Streamer**"
     }
   }
 }
