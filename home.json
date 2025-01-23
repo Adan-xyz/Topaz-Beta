@@ -26,9 +26,9 @@
     }
   },
   "game": {
-    "tasks": {
-      "default": "Tasks available:",
-      "programmer": "Projects available:",
+    "profession": {
+      "programmer": "Project:",
+      "programmer1": "Completed:",
       "trader": "Funds & Setups available:",
       "designer": "Projects available:",
       "streamer": "Contents available:"
