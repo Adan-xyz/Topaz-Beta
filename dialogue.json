@@ -1,1 +1,9 @@
-
+{
+  "introduction": {
+    "1": "Oh! hello new Node, nice to meet you. I'm **Topaz**!",
+    "2": "E-eh?? s-sorry... I mean",
+    "2a": "Yes, that's your name right?",
+    "3": "Oh, okay",
+    "3a": "Welcome to the **Topaz Space Station**. center of intergalactic blockchain activity. All the technology here—from transactions to security—is directly connected to the blockchain network that I manage."
+  }
+}
