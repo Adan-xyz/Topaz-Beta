@@ -12,37 +12,6 @@
       "brilliancebadge": "<a:brilliance:1329281946592874526>",
       "braverybadge": "<a:bravery:1329281970030645328>",
       "balancebadge": "<a:balance:1329281987646718092>"
-    },
-    "skill": {
-      "skill1": "Beginner",
-      "skill2": "Intermediate",
-      "skill3": "Expert"
-    },
-    "profession": {
-      "programmer": "**Programmer**",
-      "trader": "**Trader**",
-      "designer": "**Designer**",
-      "streamer": "**Streamer**"
-    }
-  },
-  "game": {
-    "profession": {
-      "programmer": {
-        "programmer1": "Projects:",
-        "programmer2": "Completed:"
-      },
-      "trader": {
-        "trader1": "Funds:",
-        "trader2": "Profit:"
-      },
-      "designer": {
-        "designer1": "Projects:",
-        "designer2": "Completed:"
-      },
-      "streamer": {
-        "streamer1": "Content:",
-        "streamer2": "Subscriber:"
-      }
     }
   }
 }
