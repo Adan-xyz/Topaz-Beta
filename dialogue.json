@@ -12,7 +12,11 @@
       "3a": "Welcome to the **Topaz Space Station**. center of intergalactic blockchain activity. All the technology here—from transactions to security—is directly connected to the blockchain network that I manage."
     },
     "button": {
-      "1": "$repeatMessage[2;$addButton[no;introduction;Label;secondary;]]"
+      "1": "Node?",
+      "2": "yes, that's my name",
+      "2a": "no, that's just my alias",
+      "3": "wow that's great, but-",
+      "3a": "how did you get here?"
     }
   }
 }
