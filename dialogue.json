@@ -5,7 +5,8 @@
       "2": "https://media.discordapp.net/attachments/1328929920981930014/1333052368836886639/Sticker_PPG_09_Topaz_and_Numby_02.png?ex=679ac903&is=67997783&hm=c4e9423a0860255f40b8ba9e1803f43f775b6911af203e03464cb9c1d4bb0b35&",
       "3": "https://media.discordapp.net/attachments/1328929920981930014/1333051335989264424/Sticker_PPG_09_Topaz_and_Numby_01.png?ex=679ac80d&is=6799768d&hm=da79953300d0f364f10279820578248b217e20b27ea5829b6fe1ca2830fc05a0&",
       "4": "https://media.discordapp.net/attachments/1328929920981930014/1333052368836886639/Sticker_PPG_09_Topaz_and_Numby_02.png?ex=679ac903&is=67997783&hm=c4e9423a0860255f40b8ba9e1803f43f775b6911af203e03464cb9c1d4bb0b35&",
-      "5": "https://media.discordapp.net/attachments/1328929920981930014/1333051335989264424/Sticker_PPG_09_Topaz_and_Numby_01.png?ex=679ac80d&is=6799768d&hm=da79953300d0f364f10279820578248b217e20b27ea5829b6fe1ca2830fc05a0&"
+      "5": "https://media.discordapp.net/attachments/1328929920981930014/1333051335989264424/Sticker_PPG_09_Topaz_and_Numby_01.png?ex=679ac80d&is=6799768d&hm=da79953300d0f364f10279820578248b217e20b27ea5829b6fe1ca2830fc05a0&",
+      "6": null
     },
     "text": {
       "1": "Oh! hello new Node, nice to meet you. I'm **Topaz**!",
@@ -27,7 +28,9 @@
       "4": "...oh",
       "4a": "...wow",
       "5": "‎um, okay",
-      "5a": "‎(nod)"
+      "5a": "‎(nod)",
+      "6": null,
+      "6a": null
     }
   }
 }
