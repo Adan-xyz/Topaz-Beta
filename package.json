@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@aoijs/aoi.db": "^0.0.0",
-    "@types/node": "^18.0.6",
+    "@types/node": "^20.0.0",
     "aoi.js": "^6.9.0"
   }
 }
