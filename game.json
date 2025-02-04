@@ -1,8 +1,8 @@
 {
   "chillmode": {
     "email": {
-      "0": "",
-      "1": ""
+      "0": "no client found...",
+      "1": "client found! let's make the project"
     },
     "energy": {
     "0": "<:noenergy:1336001010451087483>",
