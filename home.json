@@ -13,5 +13,11 @@
       "braverybadge": "<a:bravery:1329281970030645328>",
       "balancebadge": "<a:balance:1329281987646718092>"
     }
+  },
+  "minigames": {
+    "beginning": "Here, you can choose a playing style according to your mood and personality. Would you rather relax, explore space, or fight against enemies?",
+    "chillmode": "Relax in the virtual world! Work from your computer, become a famous streamer, and build your dream career. Collect money, upgrade equipment and enjoy digital life.",
+    "scifiexplorer": "Explore the vastness of the galaxy! Fly on a spaceship, discover mysterious planets and collect valuable resources. Prepare the best strategy for a space expedition!",
+    "shootermode": "Test your combat skills! Face enemies in exciting battles, upgrade weapons, and achieve the highest kill points. Can you be the best?"
   }
 }
