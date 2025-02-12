@@ -4,6 +4,9 @@
       "0": "no client found...",
       "1": "client found! let's make the project"
     },
+    "emoji": {
+      "live": "<a:live:1339143235125248020>"
+    },
     "energy": {
     "0": "<:noenergy:1336001010451087483>",
     "1": "<:lowenergy:1336000952209113180>",
