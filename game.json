@@ -229,6 +229,18 @@
       "8": "3",
       "9": "2",
       "10": "1"
+    },
+    "descriptions": { 
+      "1": "Rocky planet with a thin atmosphere and reddish skies. Frequently hit by fierce dust storms.", 
+      "2": "A giant ice planet with a surface covered in glowing blue crystals. Extreme temperatures make it difficult to explore.",
+      "3": "A giant gas planet with a magnificent ring surrounding it. Its gravitational field is strong, so be careful when approaching!",
+      "4": "A former exploded star, now a beautiful, colorful nebula. Rich in rare elements, but dangerous radiation.",
+      "5": "A small planet with a rocky surface and lakes of liquid methane. Extremely cold, but perfect for extreme chemical research.",
+      "6": "A green planet with dense vegetation and breathable air. Perfect for colonization, but beware of its native creatures!",
+      "7": "A dark planet without a parent star, floating freely in the void of space. Its surface is covered in mysterious black crystals.",
+      "8": "This planet has strange structures that are thought to be made by intelligent beings. What's the secret behind it?",
+      "9": "A mysterious signal was detected from the depths of the planet. Is there life here?",
+      "10": "The planet is surrounded by a cloud of poisonous gas. Only spaceship with special protection can land."
     }
   }
 }
