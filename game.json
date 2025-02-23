@@ -242,5 +242,14 @@
       "9": "A mysterious signal was detected from the depths of the planet. Is there life here?",
       "10": "The planet is surrounded by a cloud of poisonous gas. Only spaceship with special protection can land."
     }
+  },
+  "shootermode": {
+    "image": {
+      "1": "https://media.discordapp.net/attachments/1328929920981930014/1343119658152231026/20250223_134730.jpg?ex=67bc1d28&is=67bacba8&hm=3b8ba022576b00351e83c44d598c463dacd235807df111b70e54dd312356d91d&",
+      "2": "https://media.discordapp.net/attachments/1328929920981930014/1343119728566341703/20250223_135125.jpg?ex=67bc1d39&is=67bacbb9&hm=24dc385a8eeb22c0f94efeac8a0e5eeeb1a5560e0ec0372fe280c145db8fc982&",
+      "3": "https://media.discordapp.net/attachments/1328929920981930014/1343119767015526413/20250223_135243.jpg?ex=67bc1d42&is=67bacbc2&hm=1dc4f66c18e305ab0f5e215184ab9cd9b135c9e72bd6b142c2b306d91866ab81&",
+      "4": "https://media.discordapp.net/attachments/1328929920981930014/1343119778251804795/20250223_135402.jpg?ex=67bc1d45&is=67bacbc5&hm=037159aa7802f6cbbc6e86a5ac75502d27e3a70ecd586c1fbc940d5bdc1f4f6d&",
+      "5": "https://media.discordapp.net/attachments/1328929920981930014/1343119788893011998/20250223_135440.jpg?ex=67bc1d47&is=67bacbc7&hm=096340cce2c62f13758e1c416443de652b9f5a7f7bbeb0ea7bb64bc20265b167&"
+    }
   }
 }
