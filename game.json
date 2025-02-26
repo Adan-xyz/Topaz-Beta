@@ -269,6 +269,12 @@
       "3": "The White Mastiff",
       "4": "The White Fox"
     },
+    "defy": {
+      "1": "AN-94",
+      "2": "AK-12",
+      "3": "AK-15",
+      "4": "RPK-16"
+    },
     "stats": {
       "damage": {
         "min": {
