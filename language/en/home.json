@@ -1,8 +1,9 @@
 {
   "title": "Home",
   "description": {
-    "0a": "",
-    "0b": "",
+    "0a": "Hello",
+    "0b": ", welcome to Home.",
+    "0c": "Now, you can start exploring the world of Web3 with the various interesting features available.",
     "minigames": "",
     "cryptonft": "",
     "wallet": "",
